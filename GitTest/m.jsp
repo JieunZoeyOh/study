@@ -6,6 +6,7 @@
   <title>Insert title here</title>
 </head>
 <body>
+  <title>2</title>
   <h1>m2.jsp입니다.</h1>
   <h2>3</h2>
 </body>
